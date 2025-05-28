@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Traffic Sign Recognition</string>
+
+    <string name="theo_he_thong">Follow system</string>
+    <string name="sang">Light</string>
+    <string name="toi">Dark</string>
+
+
+    <string name="huong_dan_su_dung">How to use the traffic sign recognition app</string>
+    <string name="buoc_1">1. Open the app and press \'Start\' to scan traffic signs.</string>
+    <string name="buoc_2">2. Allow the app to access the device\'s camera.</string>
+    <string name="buoc_3">3. Point the phone\'s camera at the traffic sign you want to recognize.</string>
+    <string name="buoc_4">4. The app will automatically recognize the sign and display its information.</string>
+    <string name="buoc_5">5. You can review the recognition history and look up scanned signs.</string>
+    <string name="buoc_6">6. Access the \'Settings\' section to change the language and other options.</string>
+
+
+    <!-- Navigation -->
+    <string name="huong_dan">Instruction</string>
+    <string name="thong_ke">Statistics</string>
+    <string name="album">Album</string>
+    <string name="truc_tiep">Live</string>
+    <string name="dang_xuat">Logout</string>
+    <string name="dang_nhap">Login</string>
+
+    <!-- Setting -->
+    <string name="cai_dat">Settings</string>
+    <string name="ngon_ngu">Language</string>
+    <string name="giao_dien">Theme</string>
+    <string name="cap_nhat_phan_mem">Update Software</string>
+    <string name="quyen_truy_cap">Permissions</string>
+    <string name="dat_lai_cai_dat">Reset Settings</string>
+    <string name="thong_bao">Notification</string>
+    <string name="quan_ly">Manage</string>
+    <string name="kiem_tra">Check</string>
+
+
+    <!-- Album -->
+    <string name="chon_anh">Select Image</string>
+    <string name="tim_kiem">Search</string>
+    <string name="more_albums">More albums</string>
+
+    <!-- Thống kê -->
+    <string name="tieu_de_thong_ke">Statistics</string>
+    <string name="xoa_thong_ke">Clear Statistics</string>
+    <string name="chua_co_thong_ke">No statistics available.</string>
+
+    <!-- Login/Register -->
+    <string name="dang_ky">Register</string>
+    <string name="email">Email</string>
+    <string name="mat_khau">Password</string>
+    <string name="nhap_lai_mat_khau">Confirm Password</string>
+    <string name="quen_mat_khau">Forgot password?</string>
+    <string name="hoac">Or</string>
+
+    <!-- Camera -->
+    <string name="anh_goc">Original Image</string>
+    <string name="cac_bien_bao_duoc_nhan_dien">Detected Signs</string>
+
+    <!-- Others -->
+    <string name="chon_tat_ca">Select All</string>
+    <string name="bo_chon_tat_ca">Deselect All</string>
+    <string name="huy">Cancel</string>
+    <string name="xoa">Delete</string>
+    <string name="xac_nhan_xoa">Are you sure you want to delete?</string>
+    <string name="da_xoa_anh">Photo(s) deleted</string>
+    <string name="xoa_anh">Delete photo</string>
+    <string name="ban_co_chac_chan_muon_xoa">Are you sure you want to delete </string>
+    <string name="anh_h"> photo(s)?</string>
+    <string name="ban_co_muon_dang_xuat_khong">Do you want to log out?</string>
+    <string name="da_co_tai_khoan_dn">Already have an account? Login</string>
+    <string name="khong_ro">Unknown</string>
+    <string name="bien_bao_2c">Traffic sign: </string>
+    <string name="do_chinh_xac">Accuracy: </string>
+    <string name="quay_lai">Go back</string>
+
+    <!-- English (en) -->
+    <string name="o_to">Car</string>
+    <string name="xe_may">Motorbike</string>
+    <string name="tra_cuu">Search</string>
+
+    <!-- English -->
+    <string name="xe_may_dien">Electric motorbike</string>
+    <string name="ket_qua_se_hien_thi_o_day">Results will be displayed here</string>
+    <string name="nhap_bien_so_mau">Enter license plate (e.g., 30H16234)</string>
+    <string name="dang_tai_captcha_vui_long_cho">Loading captcha, please wait...</string>
+    <string name="nhap_bien_so_thong_bao">Enter license plate!</string>
+    <string name="xac_nhan_xoa_thong_ke">Are you sure you want to delete all statistics data?</string>
+    <string name="da_xoa_thong_ke">Statistics deleted</string>
+    <string name="khong_the_xoa">Cannot delete!</string>
+    <string name="thong_bao_da_bat">Notifications enabled</string>
+    <string name="thong_bao_da_tat">Notifications disabled</string>
+    <string name="kiem_tra_cap_nhat">Check for updates</string>
+    <string name="ban_dang_su_dung_phien_ban_moi_nhat">You are using the latest version.</string>
+    <string name="xac_nhan_dat_lai_cai_dat">Are you sure you want to reset all settings to default?</string>
+    <string name="dat_lai">Reset</string>
+    <string name="da_dat_lai_cai_dat_mac_dinh">Settings have been reset to default</string>
+
+    <string name="dang_nhan_dien">Detecting</string>
+    <string name="canh_bao_thoat_nhan_dien">The app is detecting the image. Are you sure you want to exit?</string>
+    <string name="thoat">Exit</string>
+
+    <string name="chup_anh_moi">Take a new photo</string>
+    <string name="more_images">More images</string>
+
+    <string name="loi">Error</string>
+    <string name="vui_long_nhap_day_du_thong_tin">Please fill in all information</string>
+    <string name="mat_khau_khong_khop">Passwords do not match</string>
+    <string name="dang_ky_thanh_cong">Registration successful</string>
+    <string name="dang_nhap_that_bai">Login failed</string>
+    <string name="dang_nhap_thanh_cong">Login successful</string>
+    <string name="vui_long_nhap_email_va_mat_khau">Please enter email and password</string>
+    <string name="da_gui_email_xac_thuc">Password reset email sent!</string>
+    <string name="nhap_email_truoc_khi_dat_lai_mat_khau">Enter email before resetting password</string>
+
+    <string name="co">Yes</string>
+    <string name="khong">No</string>
+    <string name="xoa_du_lieu_cu">Delete old data?</string>
+    <string name="canh_bao_xoa_lich_su_nhan_dien_va_album">You have logged into a new account. Do you want to delete the previous recognition history and album?</string>
+
+    <string name="tai_khoan_hien_tai">Current Account</string>
+    <string name="tai_khoan_chua_dang_nhap">Account: Not logged in</string>
+
+</resources>

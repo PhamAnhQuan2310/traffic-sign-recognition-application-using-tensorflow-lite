@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reconocimiento de Señales de Tráfico</string>
+    <string name="theo_he_thong">Seguir el sistema</string>
+    <string name="sang">Claro</string>
+    <string name="toi">Oscuro</string>
+    <string name="huong_dan_su_dung">Cómo usar la aplicación de reconocimiento de señales</string>
+    <string name="buoc_1">1. Abre la aplicación y presiona el botón \'Comenzar\' para escanear señales.</string>
+    <string name="buoc_2">2. Permite el acceso a la cámara del dispositivo.</string>
+    <string name="buoc_3">3. Apunta la cámara hacia la señal de tráfico que quieres reconocer.</string>
+    <string name="buoc_4">4. La aplicación reconocerá automáticamente la señal y mostrará la información.</string>
+    <string name="buoc_5">5. Puedes revisar el historial de reconocimientos y buscar señales escaneadas.</string>
+    <string name="buoc_6">6. Accede a \'Configuración\' para cambiar el idioma y otras opciones.</string>
+    <string name="huong_dan">Instrucciones</string>
+    <string name="thong_ke">Estadísticas</string>
+    <string name="album">Álbum</string>
+    <string name="truc_tiep">En vivo</string>
+    <string name="dang_xuat">Cerrar sesión</string>
+    <string name="dang_nhap">Iniciar sesión</string>
+    <string name="cai_dat">Configuración</string>
+    <string name="ngon_ngu">Idioma</string>
+    <string name="giao_dien">Tema</string>
+    <string name="cap_nhat_phan_mem">Actualizar software</string>
+    <string name="quyen_truy_cap">Permisos</string>
+    <string name="dat_lai_cai_dat">Restablecer configuraciones</string>
+    <string name="thong_bao">Notificación</string>
+    <string name="quan_ly">Gestionar</string>
+    <string name="kiem_tra">Verificar</string>
+    <string name="chon_anh">Seleccionar imagen</string>
+    <string name="tim_kiem">Buscar</string>
+    <string name="more_albums">Más álbumes</string>
+    <string name="tieu_de_thong_ke">Título de estadísticas</string>
+    <string name="xoa_thong_ke">Borrar estadísticas</string>
+    <string name="chua_co_thong_ke">No hay estadísticas disponibles.</string>
+    <string name="dang_ky">Registrarse</string>
+    <string name="email">Correo electrónico</string>
+    <string name="mat_khau">Contraseña</string>
+    <string name="nhap_lai_mat_khau">Confirmar contraseña</string>
+    <string name="quen_mat_khau">¿Olvidaste la contraseña?</string>
+    <string name="hoac">O</string>
+    <string name="anh_goc">Imagen original</string>
+    <string name="cac_bien_bao_duoc_nhan_dien">Señales detectadas</string>
+    <string name="chon_tat_ca">Seleccionar todo</string>
+    <string name="bo_chon_tat_ca">Deseleccionar todo</string>
+    <string name="huy">Cancelar</string>
+    <string name="xoa">Eliminar</string>
+    <string name="xac_nhan_xoa">¿Estás seguro de que quieres eliminar?</string>
+    <string name="da_xoa_anh">Foto(s) eliminada(s)</string>
+    <string name="xoa_anh">Eliminar foto</string>
+    <string name="ban_co_chac_chan_muon_xoa">¿Seguro que deseas eliminar </string>
+    <string name="anh_h"> foto(s)?</string>
+    <string name="ban_co_muon_dang_xuat_khong">¿Deseas cerrar sesión?</string>
+    <string name="da_co_tai_khoan_dn">¿Ya tienes una cuenta? Inicia sesión</string>
+    <string name="khong_ro">Desconocido</string>
+    <string name="bien_bao_2c">Señal: </string>
+    <string name="do_chinh_xac">Precisión: </string>
+    <string name="quay_lai">Volver</string>
+
+    <!-- Spanish (es) -->
+    <string name="o_to">Automóvil</string>
+    <string name="xe_may">Motocicleta</string>
+
+    <string name="tra_cuu">Consultar</string>
+
+    <!-- Spanish -->
+    <string name="xe_may_dien">Moto eléctrica</string>
+    <string name="ket_qua_se_hien_thi_o_day">Los resultados se mostrarán aquí</string>
+    <string name="nhap_bien_so_mau">Introduzca la matrícula (ej.: 30H16234)</string>
+    <string name="dang_tai_captcha_vui_long_cho">Cargando captcha, por favor espere...</string>
+    <string name="nhap_bien_so_thong_bao">¡Introduzca la matrícula!</string>
+    <string name="xac_nhan_xoa_thong_ke">¿Está seguro de que desea eliminar todos los datos estadísticos?</string>
+    <string name="da_xoa_thong_ke">Estadísticas eliminadas</string>
+    <string name="khong_the_xoa">¡No se puede eliminar!</string>
+    <string name="thong_bao_da_bat">Notificaciones activadas</string>
+    <string name="thong_bao_da_tat">Notificaciones desactivadas</string>
+    <string name="kiem_tra_cap_nhat">Buscar actualizaciones</string>
+    <string name="ban_dang_su_dung_phien_ban_moi_nhat">Está utilizando la versión más reciente.</string>
+    <string name="xac_nhan_dat_lai_cai_dat">¿Está seguro de que desea restablecer todos los ajustes a los valores predeterminados?</string>
+    <string name="dat_lai">Restablecer</string>
+    <string name="da_dat_lai_cai_dat_mac_dinh">Configuraciones restablecidas a valores predeterminados</string>
+
+    <string name="dang_nhan_dien">Detectando</string>
+    <string name="canh_bao_thoat_nhan_dien">La aplicación está detectando la imagen. ¿Seguro que quieres salir?</string>
+    <string name="thoat">Salir</string>
+    <string name="chup_anh_moi">Tomar una nueva foto</string>
+    <string name="more_images">Más imágenes</string>
+
+    <string name="loi">Error</string>
+    <string name="vui_long_nhap_day_du_thong_tin">Por favor complete toda la información</string>
+    <string name="mat_khau_khong_khop">Las contraseñas no coinciden</string>
+    <string name="dang_ky_thanh_cong">Registro exitoso</string>
+    <string name="dang_nhap_that_bai">Inicio de sesión fallido</string>
+    <string name="dang_nhap_thanh_cong">Inicio de sesión exitoso</string>
+    <string name="vui_long_nhap_email_va_mat_khau">Por favor ingrese correo electrónico y contraseña</string>
+    <string name="da_gui_email_xac_thuc">¡Correo de restablecimiento de contraseña enviado!</string>
+    <string name="nhap_email_truoc_khi_dat_lai_mat_khau">Ingrese el correo electrónico antes de restablecer la contraseña</string>
+
+    <string name="co">Sí</string>
+    <string name="khong">No</string>
+    <string name="xoa_du_lieu_cu">¿Eliminar datos antiguos?</string>
+    <string name="canh_bao_xoa_lich_su_nhan_dien_va_album">Has iniciado sesión en una nueva cuenta. ¿Deseas eliminar el historial de reconocimiento y el álbum anteriores?</string>
+
+    <string name="tai_khoan_hien_tai">Cuenta actual</string>
+    <string name="tai_khoan_chua_dang_nhap">Cuenta: No ha iniciado sesión</string>
+
+</resources>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reconnaissance des panneaux de signalisation</string>
+    <string name="theo_he_thong">Suivre le système</string>
+    <string name="sang">Clair</string>
+    <string name="toi">Sombre</string>
+    <string name="huong_dan_su_dung">Comment utiliser l\'application de reconnaissance des panneaux</string>
+    <string name="buoc_1">1. Ouvrez l\'application et appuyez sur le bouton \'Démarrer\' pour scanner les panneaux.</string>
+    <string name="buoc_2">2. Autorisez l\'accès à la caméra de l\'appareil.</string>
+    <string name="buoc_3">3. Pointez la caméra vers le panneau à reconnaître.</string>
+    <string name="buoc_4">4. L\'application reconnaît automatiquement le panneau et affiche les informations.</string>
+    <string name="buoc_5">5. Consultez l\'historique de reconnaissance et recherchez les panneaux scannés.</string>
+    <string name="buoc_6">6. Accédez aux \'Paramètres\' pour changer la langue et d\'autres options.</string>
+    <string name="huong_dan">Instructions</string>
+    <string name="thong_ke">Statistiques</string>
+    <string name="album">Album</string>
+    <string name="truc_tiep">En direct</string>
+    <string name="dang_xuat">Déconnexion</string>
+    <string name="dang_nhap">Connexion</string>
+    <string name="cai_dat">Paramètres</string>
+    <string name="ngon_ngu">Langue</string>
+    <string name="giao_dien">Thème</string>
+    <string name="cap_nhat_phan_mem">Mettre à jour le logiciel</string>
+    <string name="quyen_truy_cap">Autorisations</string>
+    <string name="dat_lai_cai_dat">Réinitialiser les paramètres</string>
+    <string name="thong_bao">Notification</string>
+    <string name="quan_ly">Gérer</string>
+    <string name="kiem_tra">Vérifier</string>
+    <string name="chon_anh">Sélectionner une image</string>
+    <string name="tim_kiem">Rechercher</string>
+    <string name="more_albums">Plus d\'albums</string>
+    <string name="tieu_de_thong_ke">Titre des statistiques</string>
+    <string name="xoa_thong_ke">Effacer les statistiques</string>
+    <string name="chua_co_thong_ke">Aucune statistique disponible.</string>
+    <string name="dang_ky">S\'inscrire</string>
+    <string name="email">Email</string>
+    <string name="mat_khau">Mot de passe</string>
+    <string name="nhap_lai_mat_khau">Confirmer le mot de passe</string>
+    <string name="quen_mat_khau">Mot de passe oublié ?</string>
+    <string name="hoac">Ou</string>
+    <string name="anh_goc">Image originale</string>
+    <string name="cac_bien_bao_duoc_nhan_dien">Panneaux reconnus</string>
+    <string name="chon_tat_ca">Tout sélectionner</string>
+    <string name="bo_chon_tat_ca">Tout désélectionner</string>
+    <string name="huy">Annuler</string>
+    <string name="xoa">Supprimer</string>
+    <string name="xac_nhan_xoa">Confirmez-vous la suppression ?</string>
+    <string name="da_xoa_anh">Photo(s) supprimée(s)</string>
+    <string name="xoa_anh">Supprimer la photo</string>
+    <string name="ban_co_chac_chan_muon_xoa">Voulez-vous vraiment supprimer </string>
+    <string name="anh_h"> photo(s) ?</string>
+    <string name="ban_co_muon_dang_xuat_khong">Voulez-vous vous déconnecter ?</string>
+    <string name="da_co_tai_khoan_dn">Déjà un compte ? Connectez-vous</string>
+    <string name="khong_ro">Inconnu</string>
+    <string name="bien_bao_2c">Panneau : </string>
+    <string name="do_chinh_xac">Précision : </string>
+    <string name="quay_lai">Retour</string>
+
+
+    <!-- French (fr) -->
+    <string name="o_to">Voiture</string>
+    <string name="xe_may">Moto</string>
+
+    <string name="tra_cuu">Rechercher</string>
+
+
+    <!-- French -->
+    <string name="xe_may_dien">Moto électrique</string>
+    <string name="ket_qua_se_hien_thi_o_day">Les résultats seront affichés ici</string>
+    <string name="nhap_bien_so_mau">Entrez le numéro d\'immatriculation (ex: 30H16234)</string>
+    <string name="dang_tai_captcha_vui_long_cho">Chargement du captcha, veuillez patienter...</string>
+    <string name="nhap_bien_so_thong_bao">Entrez la plaque d\'immatriculation !</string>
+    <string name="xac_nhan_xoa_thong_ke">Êtes-vous sûr de vouloir supprimer toutes les données statistiques ?</string>
+    <string name="da_xoa_thong_ke">Statistiques supprimées</string>
+    <string name="khong_the_xoa">Impossible de supprimer !</string>
+    <string name="thong_bao_da_bat">Notifications activées</string>
+    <string name="thong_bao_da_tat">Notifications désactivées</string>
+    <string name="kiem_tra_cap_nhat">Vérifier les mises à jour</string>
+    <string name="ban_dang_su_dung_phien_ban_moi_nhat">Vous utilisez la dernière version.</string>
+    <string name="xac_nhan_dat_lai_cai_dat">Êtes-vous sûr de vouloir réinitialiser tous les paramètres par défaut ?</string>
+    <string name="dat_lai">Réinitialiser</string>
+    <string name="da_dat_lai_cai_dat_mac_dinh">Les paramètres ont été réinitialisés aux valeurs par défaut</string>
+
+    <string name="dang_nhan_dien">Détection en cours</string>
+    <string name="canh_bao_thoat_nhan_dien">L\'application détecte l\'image. Êtes-vous sûr de vouloir quitter?</string>
+    <string name="thoat">Quitter</string>
+
+    <string name="chup_anh_moi">Prendre une nouvelle photo</string>
+    <string name="more_images">Plus d\'images</string>
+
+    <string name="loi">Erreur</string>
+    <string name="vui_long_nhap_day_du_thong_tin">Veuillez remplir toutes les informations</string>
+    <string name="mat_khau_khong_khop">Les mots de passe ne correspondent pas</string>
+    <string name="dang_ky_thanh_cong">Inscription réussie</string>
+    <string name="dang_nhap_that_bai">Échec de la connexion</string>
+    <string name="dang_nhap_thanh_cong">Connexion réussie</string>
+    <string name="vui_long_nhap_email_va_mat_khau">Veuillez entrer l\'e-mail et le mot de passe</string>
+    <string name="da_gui_email_xac_thuc">E-mail de réinitialisation du mot de passe envoyé!</string>
+    <string name="nhap_email_truoc_khi_dat_lai_mat_khau">Veuillez entrer l\'e-mail avant de réinitialiser le mot de passe</string>
+
+    <string name="co">Oui</string>
+    <string name="khong">Non</string>
+    <string name="xoa_du_lieu_cu">Supprimer les anciennes données?</string>
+    <string name="canh_bao_xoa_lich_su_nhan_dien_va_album">Vous vous êtes connecté à un nouveau compte. Voulez-vous supprimer l\'historique de reconnaissance et l\'album précédents?</string>
+
+    <string name="tai_khoan_hien_tai">Compte actuel</string>
+    <string name="tai_khoan_chua_dang_nhap">Compte : Non connecté</string>
+
+</resources>

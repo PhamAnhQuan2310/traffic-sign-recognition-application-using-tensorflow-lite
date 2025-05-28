@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Biển báo GT</string>
+
+    <string-array name="language_options">
+        <item>Tiếng Việt</item>
+        <item>简体中文</item>
+        <item>English</item>
+        <item>日本語</item>
+        <item>Français</item>
+        <item>Español</item>
+    </string-array>
+
+    <string-array name="theme_options">
+        <item>@string/theo_he_thong</item>
+        <item>@string/sang</item>
+        <item>@string/toi</item>
+    </string-array>
+
+    <!-- Và thêm vào strings.xml các dòng này: -->
+    <string name="theo_he_thong">Theo hệ thống</string>
+    <string name="sang">Sáng</string>
+    <string name="toi">Tối</string>
+
+
+    <!--Hướng dẫn sử dụng-->
+    <string name="huong_dan_su_dung">Hướng dẫn sử dụng ứng dụng nhận diện biển báo giao thông</string>
+    <string name="buoc_1">1. Mở ứng dụng và nhấn nút \'Bắt đầu\' để quét biển báo giao thông.</string>
+    <string name="buoc_2">2. Cho phép ứng dụng truy cập vào camera của thiết bị.</string>
+    <string name="buoc_3">3. Hướng camera của điện thoại về biển báo giao thông mà bạn muốn nhận diện.</string>
+    <string name="buoc_4">4. Ứng dụng sẽ tự động nhận diện biển báo và hiển thị thông tin về biển báo đó.</string>
+    <string name="buoc_5">5. Bạn có thể xem lại lịch sử nhận diện và tra cứu các biển báo đã quét.</string>
+    <string name="buoc_6">6. Truy cập vào phần \'Cài đặt\' để thay đổi ngôn ngữ và các tùy chọn khác.</string>
+
+    <!-- Navigation -->
+    <string name="huong_dan">Hướng dẫn</string>
+    <string name="thong_ke">Thống kê</string>
+    <string name="album">Album</string>
+    <string name="truc_tiep">Trực tiếp</string>
+    <string name="tra_cuu">Tra cứu</string>
+    <string name="dang_xuat">Đăng xuất</string>
+    <string name="dang_nhap">Đăng nhập</string>
+
+    <!-- Setting -->
+    <string name="cai_dat">Cài đặt</string>
+    <string name="ngon_ngu">Ngôn ngữ</string>
+    <string name="giao_dien">Giao diện</string>
+    <string name="cap_nhat_phan_mem">Cập nhật phần mềm</string>
+    <string name="quyen_truy_cap">Quyền truy cập</string>
+    <string name="dat_lai_cai_dat">Đặt lại cài đặt</string>
+    <string name="thong_bao">Thông báo</string>
+    <string name="quan_ly">Quản lý</string>
+    <string name="kiem_tra">Kiểm tra</string>
+    <string name="thong_bao_da_bat">Thông báo đã bật</string>
+    <string name="thong_bao_da_tat">Thông báo đã tắt</string>
+    <string name="kiem_tra_cap_nhat">Kiểm tra cập nhật</string>
+    <string name="ban_dang_su_dung_phien_ban_moi_nhat">Bạn đang sử dụng phiên bản mới nhất.</string>
+    <string name="xac_nhan_dat_lai_cai_dat">Bạn có chắc muốn đặt lại toàn bộ cài đặt về mặc định không?</string>
+    <string name="dat_lai">Đặt lại</string>
+    <string name="da_dat_lai_cai_dat_mac_dinh">Đã đặt lại cài đặt về mặc định</string>
+    <string name="tai_khoan_hien_tai">Tài khoản hiện tại</string>
+    <string name="tai_khoan_chua_dang_nhap">Tài khoản: Chưa đăng nhập</string>
+
+    <!-- Album -->
+    <string name="chon_anh">Chọn ảnh</string>
+    <string name="tim_kiem">Tìm kiếm</string>
+    <string name="more_albums">Xem thêm album</string>
+    <string name="chup_anh_moi">Chụp ảnh mới</string>
+    <string name="more_images">More images</string>
+    <!-- Thống kê -->
+    <string name="tieu_de_thong_ke">Thống kê</string>
+    <string name="xoa_thong_ke">Xoá thống kê</string>
+    <string name="chua_co_thong_ke">Chưa có thống kê nào.</string>
+    <string name="xac_nhan_xoa_thong_ke">Bạn có chắc muốn xoá toàn bộ dữ liệu thống kê không?</string>
+    <string name="da_xoa_thong_ke">Đã xoá thống kê</string>
+    <string name="khong_the_xoa">Không thể xoá!</string>
+
+    <!-- Login/Register -->
+    <string name="dang_ky">Đăng ký</string>
+    <string name="email">Email</string>
+    <string name="mat_khau">Mật khẩu</string>
+    <string name="nhap_lai_mat_khau">Nhập lại mật khẩu</string>
+    <string name="quen_mat_khau">Quên mật khẩu?</string>
+    <string name="hoac">Hoặc</string>
+
+    <string name="loi">Lỗi</string>
+    <string name="vui_long_nhap_day_du_thong_tin">Vui lòng nhập đầy đủ thông tin</string>
+    <string name="mat_khau_khong_khop">Mật khẩu không khớp</string>
+    <string name="dang_ky_thanh_cong">Đăng ký thành công</string>
+    <string name="dang_nhap_that_bai">Đăng nhập thất bại</string>
+    <string name="dang_nhap_thanh_cong">Đăng nhập thành công</string>
+    <string name="vui_long_nhap_email_va_mat_khau">Vui lòng nhập email và mật khẩu</string>
+    <string name="da_gui_email_xac_thuc">Đã gửi email đặt lại mật khẩu!</string>
+
+    <string name="co">Có</string>
+    <string name="khong">Không</string>
+    <string name="xoa_du_lieu_cu">Xóa dữ liệu cũ?</string>
+    <string name="canh_bao_xoa_lich_su_nhan_dien_va_album">Bạn vừa đăng nhập tài khoản mới. Có muốn xóa lịch sử nhận diện và album cũ không?</string>
+
+    <string name="nhap_email_truoc_khi_dat_lai_mat_khau">Nhập email trước khi đặt lại mật khẩu</string>
+    <!-- Camera -->
+    <string name="anh_goc">Ảnh gốc</string>
+    <string name="cac_bien_bao_duoc_nhan_dien">Các biển báo được nhận diện</string>
+    <string name="quay_lai">Quay lại</string>
+    <string name="dang_nhan_dien">Đang nhận diện</string>
+    <string name="canh_bao_thoat_nhan_dien">Ứng dụng đang nhận diện ảnh. Bạn chắc chắn muốn thoát?</string>
+    <string name="thoat">Thoát</string>
+
+    <!-- Tra Cứu -->
+    <string name="o_to">Ô tô</string>
+    <string name="xe_may">Xe máy</string>
+    <string name="xe_may_dien">Xe máy điện</string>
+    <string name="ket_qua_se_hien_thi_o_day">Kết quả sẽ hiển thị ở đây</string>
+    <string name="nhap_bien_so_mau">Nhập biển số (VD: 30H16234)</string>
+    <string name="dang_tai_captcha_vui_long_cho">Đang tải captcha, vui lòng chờ...</string>
+    <string name="nhap_bien_so_thong_bao">Nhập biển số!</string>
+    <!-- Others -->
+
+    <string name="chon_tat_ca">Chọn tất cả</string>
+    <string name="bo_chon_tat_ca">Bỏ chọn tất cả</string>
+    <string name="huy">Huỷ</string>
+    <string name="xoa">Xoá</string>
+    <string name="xac_nhan_xoa">Bạn có chắc muốn xoá?</string>
+    <string name="da_xoa_anh">Đã xóa ảnh</string>
+    <string name="xoa_anh">Xóa ảnh</string>
+    <string name="ban_co_chac_chan_muon_xoa">Bạn có chắc chắn muốn xóa </string>
+    <string name="anh_h"> ảnh?</string>
+    <string name="ban_co_muon_dang_xuat_khong">Bạn có muốn đăng xuất không?</string>
+    <string name="da_co_tai_khoan_dn">Đã có tài khoản? Đăng nhập</string>
+    <string name="khong_ro">Không rõ</string>
+    <string name="bien_bao_2c">Biển báo: </string>
+    <string name="do_chinh_xac">Độ chính xác: </string>
+
+
+</resources>

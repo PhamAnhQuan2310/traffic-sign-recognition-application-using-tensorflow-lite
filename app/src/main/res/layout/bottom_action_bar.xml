@@ -1,0 +1,44 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bottomActionBar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:padding="8dp"
+    android:background="#FFF6FB"
+    android:visibility="gone"
+    android:weightSum="3">
+
+    <!-- Nút Chọn tất cả -->
+    <Button
+        android:id="@+id/btnSelectAll"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginEnd="8dp"
+        android:textColor="@android:color/white"
+        android:backgroundTint="#6200EE"
+    android:text="@string/chon_tat_ca"/>
+
+    <!-- Nút Xóa -->
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginEnd="8dp"
+        android:textColor="@android:color/white"
+        android:backgroundTint="#D32F2F"
+    android:text="@string/xoa"/>
+
+    <!-- Nút Huỷ -->
+    <Button
+        android:id="@+id/btnCancel"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="@android:color/white"
+        android:backgroundTint="#757575"
+    android:text="@string/huy"/>
+</LinearLayout>
